@@ -1,0 +1,1 @@
+"""Lo que hace __init__.py es "convertir" un directorio en un modulo (paquete) que contiene otros módulos, y esto lo hace para poder importarlos."""
